@@ -1,8 +1,6 @@
 # RTH
 
-/**
- *Submitted for verification at BscScan.com on 2022-11-15
-*/
+![IMAGE 2022-11-18 19:33:29](https://user-images.githubusercontent.com/81981737/202722637-fef3a26d-b0e2-4cbe-a9f5-83053edb7643.jpg)
 
 // SPDX-License-Identifier: MIT
 
